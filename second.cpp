@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Hello, Kofi Bastard" << std::endl;
+    std::cout << "This is wild." << std::endl;
+    std::cout << "Not a good candidate for a beginner." << std:: endl;
     return 0;
 }
